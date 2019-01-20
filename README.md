@@ -7,4 +7,4 @@
 
 效果如下：
 
-![letter](../letter.png)
+![letter](./letter.png)
