@@ -5,6 +5,6 @@
 本文想法是张鑫旭的一篇文章https://www.zhangxinxu.com/wordpress/2019/01/pure-css-26-letters/，
 然后就做了一下，效果也还行。
 
-效果如下图：
+效果如下：
 
 ![letter](letter.png)
