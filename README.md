@@ -7,4 +7,4 @@
 
 效果如下：
 
-![letter](./letter.png)
+![letter](https://github.com/wenrenbuyu/css-26-English-letter/blob/master/letter.jpg)
